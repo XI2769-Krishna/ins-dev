@@ -1,0 +1,14 @@
+slug: o11y-as-code-pulumi
+id: ffy8v9yizhat
+title: Observability as Code with Pulumi
+teaser: This workshop demonstrates how to apply Observability as Code using Pulumi
+  and New Relic together.
+description: |
+  Observability as Code with Pulumi
+icon: https://cdn.instruqt.com/assets/templates/docker.png
+tags: []
+owner: instruqt-support
+developers:
+- gaurav@instruqt.com
+checksum: "17358770522552848759"
+timelimit: 2700

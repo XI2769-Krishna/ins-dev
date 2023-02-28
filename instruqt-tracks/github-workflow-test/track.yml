@@ -10,4 +10,6 @@ tags:
 owner: instruqt-support
 developers:
 - krishna@instruqt.com
-checksum: "4591583354415273222"
+maintenance: false
+checksum: "11397849002626119162"
+timelimit: 1000

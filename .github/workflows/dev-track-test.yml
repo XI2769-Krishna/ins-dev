@@ -81,3 +81,10 @@ jobs:
         with:
           path: ${{ env.TRACK_DIR }}/${{ matrix.tracks.slug }}
         if: steps.track-pull.outcome == 'success'
+        
+      - name: Delete dev track
+        uses: ./.github/actions/track-delete
+        with:
+          path: ${{ env.TRACK_DIR }}/${{ matrix.tracks.slug }}
+        if: steps.track-pull.outcome == 'success'
+        

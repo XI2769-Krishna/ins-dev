@@ -1,6 +1,6 @@
 ---
 slug: creating-a-directory
-id: tknmgjo7sx9k
+id: 7choxiit9btt
 type: challenge
 title: Creating a directory
 teaser: Learn how to create directory

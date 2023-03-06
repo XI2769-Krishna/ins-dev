@@ -1,15 +1,15 @@
-slug: github-workflow-test
-id: 4rirpiwhdxyu
-title: github-workflow-test
+slug: github-workflow-test-dev
+id: vbm61bjlkii1
+title: DEV - github-workflow-test
 teaser: Get started quickly with a single container-based sandbox host
 description: Get started quickly with a container-based sandbox host. Choose a container
   when you need a fast, lightweight Linux system.
 icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
 tags:
-- prod
+- dev
 owner: instruqt-support
 developers:
 - krishna@instruqt.com
-maintenance: false
-checksum: "6867646150215810914"
+maintenance: true
+checksum: "13897585508838496647"
 timelimit: 500

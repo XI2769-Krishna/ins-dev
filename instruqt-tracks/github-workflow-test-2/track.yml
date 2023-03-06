@@ -1,0 +1,13 @@
+slug: github-workflow-test-2
+id: z5xoalo1ofxi
+title: github-workflow-test-2
+teaser: Get started quickly with a single container-based sandbox host
+description: Get started quickly with a container-based sandbox host. Choose a container
+  when you need a fast, lightweight Linux system.
+icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
+tags:
+- prod
+owner: instruqt-support
+developers:
+- krishna@instruqt.com
+checksum: "5045066365358060570"
